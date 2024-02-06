@@ -19,7 +19,7 @@ public class HomeTaskScanner {
         String sumgrades = grade.nextLine();
         System.out.println("input age");
         Scanner myage = new Scanner(System.in);
-        Integer my_age = age.nextInt();
+        String my_age = myage.nextLine();
 
         }
 
