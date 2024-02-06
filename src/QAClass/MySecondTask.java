@@ -13,5 +13,6 @@ public class MySecondTask {
             System.out.println(myage);
             byte myVariable = 4;
             System.out.println(myVariable);
+        System.out.println("Empty");
     }
 }
