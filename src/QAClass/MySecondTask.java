@@ -16,3 +16,4 @@ public class MySecondTask {
         System.out.println("Empty");
     }
 }
+// Job well done! clean code and easy to read.
